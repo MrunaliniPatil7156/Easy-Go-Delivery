@@ -1,2 +1,2 @@
-# Easy-Go-Delivery-System
+# Easy-Go-Delivery
 BTech final project
